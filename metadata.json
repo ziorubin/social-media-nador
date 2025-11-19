@@ -1,0 +1,5 @@
+{
+  "name": "SocialSync AI Agency",
+  "description": "An AI-powered marketing agency that generates professional social media content from your images and instructions using Gemini 2.5 Flash and Gemini 3 Pro with Thinking.",
+  "requestFramePermissions": []
+}
